@@ -1,0 +1,16 @@
+image: python:3.7-slim-buster
+
+before_script:
+  - pip install -U jupyter-book
+
+pages:
+  stage: deploy
+  script:
+  - jupyter-book build -W .
+  - mv _build/jupyter_execute .
+  - mv _build/html public
+  artifacts:
+    paths:
+    - public
+  only:
+  - master
