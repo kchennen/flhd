@@ -1,2 +1,22 @@
 - file: README
-- file: 01-federated-averaging
+  title: Welcome
+
+- part: Federated Learning
+  chapters:
+  - file: federated_learning/introduction.md
+
+  - file: federated_learning/FedAvg_FedProx_MNISt_iid_and_nidd.ipynb
+    title: FedAVG and FedProx
+
+  - file: federated_learning/federated_mcvae.ipynb
+    title: Federated VAEs
+
+- part: Heterogeneous Data
+  chapters:
+  - file: heterogeneous_data/introduction.md
+  - file: heterogeneous_data/multivariate_models_v1_7.ipynb
+    title: "Example: Latent analysis"
+
+# - part: federated Learning
+# chapters:
+# - file: federated_learning/introduction.md
