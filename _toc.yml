@@ -1,4 +1,4 @@
-- file: README
+- file: index.md
   title: Welcome
 
 - part: Federated Learning
@@ -14,6 +14,7 @@
 - part: Heterogeneous Data
   chapters:
   - file: heterogeneous_data/introduction.md
+  - file: heterogeneous_data/generate_pseudo_adni_dataset.ipynb
   - file: heterogeneous_data/multivariate_models_v1_7.ipynb
     title: "Example: Latent analysis"
 
