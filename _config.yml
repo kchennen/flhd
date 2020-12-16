@@ -1,4 +1,3 @@
-# in _config.yml
 title: "3IA Health Data Hub - Workshop on heterogeneous data and Federated Learning"
 logo: "assets/img/logo.jpg"
 only_build_toc_files: true
