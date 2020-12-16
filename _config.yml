@@ -7,8 +7,6 @@ repository:
   url                       : https://gitlab.inria.fr/ssilvari/flhd
   branch                    : master
 
-execute:
-  execute_notebooks: "off"
 
 launch_buttons:
   notebook_interface: jupyterlab  # The interface interactive links will activate ["classic", "jupyterlab"]
