@@ -12,7 +12,7 @@
     title: Federated VAEs
 
   - file: federated_learning/federated_mcvae_adni.ipynb
-  title: Federated VAEs on biomedical data
+    title: Federated VAEs on biomedical data
 
 - part: Heterogeneous Data
   chapters:
