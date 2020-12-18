@@ -10,4 +10,4 @@ Herein you will find some material that will be developed during the workshop. S
 
 ## Launch my notebooks
 
-You can have an environment for yourself by clicking here: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/git/https%3A%2F%2Fgitlab.inria.fr%2Fssilvari%2Fflhd.git/HEAD)
+You can have an environment for yourself by clicking here: [![Binder](https://mybinder.org/badge_logo.svg)](http://bit.ly/3iahdfl)
