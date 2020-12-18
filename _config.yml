@@ -1,5 +1,5 @@
 title: "3IA Health Data Hub - Workshop on heterogeneous data and Federated Learning"
-author: Santiago Silva, Marco Lorenzi, Irene Balelli, Yann Fraboni, Andrea Scenacheribbe, Luigi Antelmi
+author: Santiago Silva, Marco Lorenzi, Irene Balelli, Yann Fraboni, Andrea Senacheribbe, Luigi Antelmi
 logo: "assets/img/logo.jpg"
 only_build_toc_files: true
 exclude_patterns: [_build, Thumbs.db, .DS_Store, "**.ipynb_checkpoints", "README.md"]

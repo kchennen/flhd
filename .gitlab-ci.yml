@@ -1,7 +1,7 @@
 image: python:3.7-slim-buster
 
 before_script:
-  - pip install -r requirements.txt
+  - pip install -r requirements-site.txt
 
 pages:
   stage: deploy
