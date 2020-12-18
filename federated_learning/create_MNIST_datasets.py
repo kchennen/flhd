@@ -58,7 +58,7 @@ class MNISTiidDataset(Dataset):
     def plot_samples(self, channel:int, title=None, plot_name="", 
         n_examples =20):
     
-        n_rows = abs(n_examples / 5)
+        n_rows = int(n_examples / 5)
         plt.figure(figsize=(1* n_rows, 1*n_rows))
         if title: plt.suptitle(title)
             
@@ -116,7 +116,6 @@ def show_original_font(family:str):
     plt.savefig(f"plots/{family}_original.png") 
     
     
-   
 def convert_to_rgb(data):
     
     def rgba_to_rgb(rgba):
@@ -265,12 +264,7 @@ def build_dataset(C:dict, std_size=2.5):
     
     return np.array(list_X), np.array(list_y)
 
-
-
-
-        
-        
-       
+ 
 class Ds_MNIST_modified(Dataset):
     """Creation of the dataset used to create the clients' dataloader"""
     
@@ -292,7 +286,7 @@ class Ds_MNIST_modified(Dataset):
     def plot_samples(self, channel:int, title=None, plot_name="", 
         n_examples =20):
     
-        n_rows = abs(n_examples / 5)
+        n_rows = int(n_examples / 5)
         plt.figure(figsize=(1* n_rows, 1*n_rows))
         if title: plt.suptitle(title)
             
