@@ -1,4 +1,5 @@
 title: "3IA Health Data Hub - Workshop on heterogeneous data and Federated Learning"
+author: Santiago Silva, Marco Lorenzi, Irene Balelli, Yann Fraboni, Andrea Scenacheribbe, Luigi Antelmi
 logo: "assets/img/logo.jpg"
 only_build_toc_files: true
 exclude_patterns: [_build, Thumbs.db, .DS_Store, "**.ipynb_checkpoints", "README.md"]
@@ -6,16 +7,11 @@ exclude_patterns: [_build, Thumbs.db, .DS_Store, "**.ipynb_checkpoints", "README
 execute:
   execute_notebooks         : "off"
 
-#######################################################################################
-# Launch button settings
-launch_buttons:
-  notebook_interface        : classic  # The interface interactive links will activate ["classic", "jupyterlab"]
-  binderhub_url             : https://mybinder.org  # The URL of the BinderHub (e.g., https://mybinder.org)
-  jupyterhub_url            : ""  # The URL of the JupyterHub (e.g., https://datahub.berkeley.edu)
-  thebe                     : false  # Add a thebe button to pages (requires the repository to run on Binder)
-
 repository:
-  url                       : https://gitlab.inria.fr/ssilvari/flhd  # The URL to your book's repository
-  path_to_book              : ""  # A path to your book's folder, relative to the repository root.
+  url: https://gitlab.inria.fr/ssilvari/flhd
+  path_to_book              : "/"  # A path to your book's folder, relative to the repository root.
   branch                    : master  # Which branch of the repository should be used when creating links
   
+html:
+  use_repository_button: True
+  extra_footer: "<a target=\"_blank\" href=\"https://team.inria.fr/epione/fr/\">EPIONE</a>"
