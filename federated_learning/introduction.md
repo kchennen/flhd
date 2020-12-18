@@ -3,7 +3,7 @@
 Standard machine learning approaches require to have a centralizaed dataset in order to train a model. In certain scenarios like in the biomedical field, this is not straightforward due to several reasons like:
 
 * Privacy concerns:
-  * General Data Protection Regulation (GDPR): https://gdpr-info.eu/
+  * General Data Protection Regulation (GDPR): https://gdpr-info.eu
   * Californian Consumer Privacy Act (CCPA): https://oag.ca.gov/privacy/ccpa
 * Ethical comitee approval
 * Transfering data to a centralized location
