@@ -3,8 +3,8 @@
 Standard machine learning approaches require to have a centralizaed dataset in order to train a model. In certain scenarios like in the biomedical field, this is not straightforward due to several reasons like:
 
 * Privacy concerns:
-  * General Data Protection Regulation (GDPR): https://gdpr-info.eu
-  * Californian Consumer Privacy Act (CCPA): https://oag.ca.gov/privacy/ccpa
+  * General Data Protection Regulation (GDPR): [General Data Protection Regulation (GDPR) – Official Legal Text](https://gdpr-info.eu/)
+  * Californian Consumer Privacy Act (CCPA): [California Consumer Privacy Act (CCPA) | State of California - Department of Justice - Office of the Attorney General](https://oag.ca.gov/privacy/ccpa)
 * Ethical comitee approval
 * Transfering data to a centralized location
 
@@ -34,7 +34,7 @@ $$
 
 Where $m$ is the total number of clients, $p_k>=0$, and $\sum_k p_k=1$ , and $F_k$ is the local objective function for the $k$-th client. The impact (contribution) of each client to the aggregation of the global model is given by $p_k$.
 
-One of the first proposed methodologies in FL for model aggregation was **Federated Averaging `FedAVG`** by (MacMahan _et_ al, 2017), the idea behind it was to define the contribution of each client as $p_k=\frac{n_k}{n}$ where $n_k$ is the number of datapoints in the client $k$ and $n$ is the total number of observations studied.
+One of the first proposed methodologies in FL for model aggregation was **Federated Averaging `FedAVG`** by (MacMahan _et_ al, 2016), the idea behind it was to define the contribution of each client as $p_k=\frac{n_k}{n}$ where $n_k$ is the number of datapoints in the client $k$ and $n$ is the total number of observations studied.
 
 ### Challenges in federated learning
 
@@ -45,3 +45,15 @@ The main challenges in FL are associated to:
 - **Data hetereogenity:** how to build generalized models with heterogeneous data?
 
 - **Security:** adversarial attacks and data leakeage.
+
+---
+
+
+
+## References
+
+1. **Konečný, J., McMahan, et al. (2016).** *Federated learning: Strategies for improving communication efficiency*. arXiv preprint arXiv:1610.05492.
+
+2. **Li, T., Sahu, et al. (2018).** *Federated optimization in heterogeneous networks.* arXiv preprint arXiv:1812.06127.
+
+3. **Li, T., Sahu, A. K., Talwalkar, A., & Smith, V. (2020).** *Federated learning: Challenges, methods, and future directions*. IEEE Signal Processing Magazine, 37(3), 50-60.
