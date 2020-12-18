@@ -11,8 +11,11 @@
   - file: federated_learning/federated_mcvae.ipynb
     title: Federated VAEs
 
+  - file: federated_learning/mcvae_rotated_mnist.ipynb
+    title: Federated Multi-channel VAEs on MNIST
+
   - file: federated_learning/federated_mcvae_adni.ipynb
-    title: Federated VAEs on biomedical data
+    title: Federated Multi-channel VAEs on biomedical data
 
 - part: Heterogeneous Data
   chapters:
