@@ -1,7 +1,7 @@
 - file: index.md
   title: Welcome
 
-- part: Heterogeneous Data
+- part: Multivariate models for the analysis of heterogeneous information 
   chapters:
   - file: heterogeneous_data/introduction.md
 #  - file: heterogeneous_data/generate_pseudo_adni_dataset.ipynb
