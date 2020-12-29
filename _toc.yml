@@ -1,6 +1,13 @@
 - file: index.md
   title: Welcome
 
+- part: Heterogeneous Data
+  chapters:
+  - file: heterogeneous_data/introduction.md
+#  - file: heterogeneous_data/generate_pseudo_adni_dataset.ipynb
+  - file: heterogeneous_data/multivariate_models_v1_7.ipynb
+    title: "Example: Latent analysis"
+
 - part: Federated Learning
   chapters:
   - file: federated_learning/introduction.md
@@ -17,12 +24,7 @@
   - file: federated_learning/federated_mcvae_adni.ipynb
     title: Federated Multi-channel VAEs on biomedical data
 
-- part: Heterogeneous Data
-  chapters:
-  - file: heterogeneous_data/introduction.md
-  - file: heterogeneous_data/generate_pseudo_adni_dataset.ipynb
-  - file: heterogeneous_data/multivariate_models_v1_7.ipynb
-    title: "Example: Latent analysis"
+
 
 # - part: federated Learning
 # chapters:
