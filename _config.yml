@@ -8,10 +8,14 @@ execute:
   execute_notebooks         : "off"
 
 repository:
-  url: https://gitlab.inria.fr/ssilvari/flhd
+  url: https://gitlab.inria.fr/epione/flhd
   path_to_book              : "/"  # A path to your book's folder, relative to the repository root.
   branch                    : master  # Which branch of the repository should be used when creating links
   
+sphinx:
+  config:
+    html_show_copyright: false
+
 html:
   use_repository_button: True
   extra_footer: "<a target=\"_blank\" href=\"https://team.inria.fr/epione/fr/\">EPIONE</a>"
