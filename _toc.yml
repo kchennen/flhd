@@ -24,7 +24,9 @@
   - file: federated_learning/federated_mcvae_adni.ipynb
     title: Federated Multi-channel VAEs on biomedical data
 
-
+- part: About
+  chapters:
+    - file: contributors.md
 
 # - part: federated Learning
 # chapters:

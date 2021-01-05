@@ -1,5 +1,5 @@
 title: "AI4health winter school - Practical Session on Handling heterogeneity in the analysis of biomedical information"
-author: Marco Lorenzi, Santiago Silva, Irene Balelli, Yann Fraboni, Andrea Senacheribbe, Luigi Antelmi
+author: "Practical Session on Handling heterogeneity in the analysis of biomedical information Team"
 logo: "assets/img/logo.jpg"
 only_build_toc_files: true
 exclude_patterns: [_build, Thumbs.db, .DS_Store, "**.ipynb_checkpoints", "README.md"]
