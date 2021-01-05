@@ -4,7 +4,7 @@ This lecture aims at covering the statistical background required to perform ass
 
 Links:
 
-- [Presentation material](https://marcolorenzi.github.io/material/winter_school/Imaging-Genetics-winter_school_Verona_2019_compressed.pdf).   
+- [Presentation material](https://marcolorenzi.github.io/material/AI4Health_winter_school_part1.pptx).   
 
 - [Colab Notebook](https://colab.research.google.com/drive/1FNDpXdc_U_UCEabCeXUWjLKOZT8gutJg).
 
