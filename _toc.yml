@@ -12,7 +12,7 @@
   chapters:
   - file: federated_learning/introduction.md
 
-  - file: federated_learning/FedAvg_FedProx_MNISt_iid_and_nidd.ipynb
+  - file: federated_learning/FedAvg_FedProx_MNIST_iid_and_noniid.ipynb 
     title: FedAVG and FedProx
 
   - file: federated_learning/federated_mcvae.ipynb
