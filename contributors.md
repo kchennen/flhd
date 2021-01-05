@@ -32,13 +32,15 @@ PhD candidate at Université Côte d’Azur, INRIA Sophia Antipolis, Accenture L
 
 **Research Interests:** Model biasing and adversarial attacks in Federated Learning.
 
-## Andrea Schenacheribbe
-Intern at INRIA Sophia Antipolis - Double degree master student at EURECOM and Politecnico di Torino.
-
-**Research Interests:** Data science and machine learning.
-
 <a href="https://www.linkedin.com/in/yannfraboni" target="_blank"><i class="fab fa-linkedin"></i></a>
 
+## Andrea Senacheribbe
+Intern at INRIA Sophia Antipolis - Double degree master student at EURECOM and Politecnico di Torino.
+
+**Research Interests:** Machine learning, statistical learning and data science applied to biology and healthcare.
+
+<a href="https://github.com/asena/" target="_blank"><i class="fab fa-github-square"></i></a>
+<a href="https://www.linkedin.com/in/andrea-senacheribbe/" target="_blank"><i class="fab fa-linkedin"></i></a>
 
 
 ## Santiago Silva
