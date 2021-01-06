@@ -55,3 +55,7 @@ The main challenges in FL are associated to:
 2. **Li, T., Sahu, et al. (2018).** *Federated optimization in heterogeneous networks.* arXiv preprint arXiv:1812.06127.
 
 3. **Li, T., Sahu, A. K., Talwalkar, A., & Smith, V. (2020).** *Federated learning: Challenges, methods, and future directions*. IEEE Signal Processing Magazine, 37(3), 50-60.
+
+## Link
+
+[Presentation material](https://ecaad164-c957-4008-a451-5e1098ff8953.filesusr.com/ugd/68a50d_fde15d344a304042b500587285e57abc.pdf)
