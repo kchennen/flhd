@@ -5,7 +5,7 @@
   chapters:
   - file: heterogeneous_data/introduction.md
 #  - file: heterogeneous_data/generate_pseudo_adni_dataset.ipynb
-  - file: heterogeneous_data/multivariate_models_v1_7.ipynb
+  - file: heterogeneous_data/heterogeneous_data.ipynb
     title: "Multivariate association models for the analysis of heterogeneous data"
 
 - part: Federated Learning
