@@ -58,4 +58,4 @@ The main challenges in FL are associated to:
 
 ## Link
 
-[Presentation material](https://ecaad164-c957-4008-a451-5e1098ff8953.filesusr.com/ugd/68a50d_fde15d344a304042b500587285e57abc.pdf)
+[Presentation material](https://ecaad164-c957-4008-a451-5e1098ff8953.filesusr.com/ugd/68a50d_a3d074241b3a4342be2fef2413ee61c7.pdf)
