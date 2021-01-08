@@ -1,5 +1,10 @@
 # 3IA Health Data Hub - Workshop on heterogeneous data and Federated Learning
 
+
+Material for workshop on heterogeneous data and Federated Learning - Winter school - 3IA/Health Data Hub
+
+Site: https://epione.gitlabpages.inria.fr/flhd/
+
 ## Add my notebook as part of the workshop
 
 1. Create your talk in the form of a Jupyter notebook (if you have code) or in a markdown file (if you are explaining a subject)
