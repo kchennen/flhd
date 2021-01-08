@@ -1,9 +1,13 @@
 ## Links
 
 [Presentation material](https://ecaad164-c957-4008-a451-5e1098ff8953.filesusr.com/ugd/68a50d_a3d074241b3a4342be2fef2413ee61c7.pdf)
+
 [Colab notebook - part 1](https://colab.research.google.com/drive/1_uemRwNuok1wop6wP2Aiokn0KQgcwfr1?usp=sharing)
+
 [Colab notebook - part 2](https://colab.research.google.com/drive/1PiUee4n8T7pIhDV5zDEqhsK5jXvDYHpO?usp=sharing)
+
 [Colab notebook - part 3](https://colab.research.google.com/drive/1kIbrUtNH_WIPQX5vLyzRjs5CTgKA2CMT?usp=sharing)
+
 [Colab notebook - part 4](https://colab.research.google.com/drive/10wEN9eqdE9Z7CtvhRFgsL3gAzunZGlee?usp=sharing)
 
 # Introduction
