@@ -6,7 +6,7 @@ Links:
 
 - [Presentation material](https://marcolorenzi.github.io/material/AI4Health_winter_school_part1.pptx).   
 
-- [Colab Notebook](https://colab.research.google.com/drive/1FNDpXdc_U_UCEabCeXUWjLKOZT8gutJg).
+- [Colab Notebook](https://colab.research.google.com/drive/1GifcqjQ0OB8JdrnooWZ137nmuxAE4T-z?usp=sharing).
 
 - [The (hitchhiker‘s) guide to Imaging-Genetics](https://marcolorenzi.github.io/material/winter_school/Imaging_Genetics_Book_Chapter.pdf).
 This chapter introduces the basics of statistical association models of heterogenous high-dimensional data, with a specific focus to data analysis in imaging-genetics.
