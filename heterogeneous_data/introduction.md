@@ -4,7 +4,7 @@ This lecture aims at covering the statistical background required to perform ass
 
 Links:
 
-- [Presentation material](https://marcolorenzi.github.io/material/AI4Health_winter_school_part1.pptx).   
+- [Presentation material](https://marcolorenzi.github.io/material/AI4Health_winter_school_part1.pdf).   
 
 - [Colab Notebook](https://colab.research.google.com/drive/1GifcqjQ0OB8JdrnooWZ137nmuxAE4T-z?usp=sharing).
 
